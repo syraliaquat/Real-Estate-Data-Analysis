@@ -1,0 +1,62 @@
+#Real Estate Data Analysis Dashboard 
+##Business Problem
+This dashboard was created to answer critical questions about Pakistan's real estate market performance, helping stakeholders make data-driven decisions. The key business questions we sought to answer were:
+
+What is the overall size and health of the real estate market in Pakistan?
+How are property prices and sales volumes trending over time?
+Which property types and locations are performing best?
+How does current year performance compare to previous year?
+What are the conversion rates and sales trends across different regions?
+
+◆ Dashboard Insights
+Market Overview
+Total Properties: 2,000 properties analyzed
+Total Sales Volume: 17.4billion(PY:17.46bn, CY: $5.57bn)
+Average Selling Price: $26.1 million
+Price per Sq ft: $9,410
+
+◆ Property Type Analysis
+Price Distribution:
+Land: 33.3% of properties ($1,498.1M total)
+Apartment: 32.85% of properties ($1,192.9M total)
+Commercial: 33.85% of properties ($1,232.8M total)
+Houses showed highest total value at $1,647.8M
+
+◆ Geographic Performance
+Top Performing Cities by Sales Volume:
+Lahore: $308.2M (Land)
+Quetta: $283.1M (House)
+Peshawar: $229.0M (Land)
+Rawalpindi: $227.5M (Commercial)
+
+◆ Year-over-Year Decline:
+All cities showed significant YoY declines (60-74%)
+Rawalpindi had steepest drop at -73.73%
+Islamabad followed at -70.90%
+
+◆ Temporal Trends 
+Price by Time: Shows cyclical patterns with peaks and troughs between Jul 2022-Jan 2025
+Monthly Sales: December typically shows highest sales volume in previous year
+
+◆ Conversion Metrics
+Sales Conversion Rate: 33.30%
+Sold Properties: 666 out of 2,000 total
+
+◆ How to Use This Dashboard
+
+◆ This interactive dashboard allows users to:
+Filter by time period (year/month)
+Compare property types
+Analyze YoY performance trends
+Monitor sales conversion metrics
+
+◆ Data Sources
+Pakistan real estate transaction records
+Property valuation databases
+Regional sales reports
+
+◆ Technical Implementation
+Built with:
+Power BI/Tableau (visualizations)
+Excel (Data Cleaning)
+
